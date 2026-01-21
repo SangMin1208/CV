@@ -4,14 +4,21 @@
     "href": "posts/01.Overview.html",
     "title": "01. Overview",
     "section": "",
-    "text": "Understand what is computer vision/deep learning algorithms\nUnderstand how to implement image/video processing algorithms in Python using OpenCV.\nUnderstand how to implement/train/test convolutional neural networks (CNNs) and Transformer in PyTorch.\n\n\n\n\n- What is computer vision\n\nImage Processing, Optics, Machine Learning, Graphics, Algorihm, System Architecture, Robotics, Speech NLP\n\n- What is deep learning\n\nAlphaGo is using a deep learning when training their parameters\nImageNet challenge (2012년 AlexNet(8 layers) \\(\\rightarrow\\) 2015년 ResNet(152 layers)) getting deeper"
+    "text": "Understand what is computer vision/deep learning algorithms\nUnderstand how to implement image/video processing algorithms in Python using OpenCV.\nUnderstand how to implement/train/test convolutional neural networks (CNNs) and Transformer in PyTorch.\n\n\n\n\n- What is computer vision?\n\nImage Processing, Optics, Machine Learning, Graphics, Algorihm, System Architecture, Robotics, Speech NLP\n\n- What is deep learning?\n\nAlphaGo is using a deep learning when training their parameters\nImageNet challenge (2012년 AlexNet(8 layers) \\(\\rightarrow\\) 2015년 ResNet(152 layers)) getting deeper\n\n\n\n\n\n- Image classification for Cifar-10 dataset.\n\nAssuming that images are composed of one main object.\n\n\n- Object detection\n\nImage could be composed of multiple objects\nDetect object location + class imformation\n\n\n- Semantic segmentation\n\nDetect object’s pixel-level location + class information\n\n\n- Image generation\n\ndraw new images by changing atrributes of the original images\n\n\n- Pose estimation\n\nRecognize 2D/3D poses of the main objects(body, hand, face)"
   },
   {
     "objectID": "posts/01.Overview.html#course-overview",
     "href": "posts/01.Overview.html#course-overview",
     "title": "01. Overview",
     "section": "",
-    "text": "Understand what is computer vision/deep learning algorithms\nUnderstand how to implement image/video processing algorithms in Python using OpenCV.\nUnderstand how to implement/train/test convolutional neural networks (CNNs) and Transformer in PyTorch.\n\n\n\n\n- What is computer vision\n\nImage Processing, Optics, Machine Learning, Graphics, Algorihm, System Architecture, Robotics, Speech NLP\n\n- What is deep learning\n\nAlphaGo is using a deep learning when training their parameters\nImageNet challenge (2012년 AlexNet(8 layers) \\(\\rightarrow\\) 2015년 ResNet(152 layers)) getting deeper"
+    "text": "Understand what is computer vision/deep learning algorithms\nUnderstand how to implement image/video processing algorithms in Python using OpenCV.\nUnderstand how to implement/train/test convolutional neural networks (CNNs) and Transformer in PyTorch.\n\n\n\n\n- What is computer vision?\n\nImage Processing, Optics, Machine Learning, Graphics, Algorihm, System Architecture, Robotics, Speech NLP\n\n- What is deep learning?\n\nAlphaGo is using a deep learning when training their parameters\nImageNet challenge (2012년 AlexNet(8 layers) \\(\\rightarrow\\) 2015년 ResNet(152 layers)) getting deeper\n\n\n\n\n\n- Image classification for Cifar-10 dataset.\n\nAssuming that images are composed of one main object.\n\n\n- Object detection\n\nImage could be composed of multiple objects\nDetect object location + class imformation\n\n\n- Semantic segmentation\n\nDetect object’s pixel-level location + class information\n\n\n- Image generation\n\ndraw new images by changing atrributes of the original images\n\n\n- Pose estimation\n\nRecognize 2D/3D poses of the main objects(body, hand, face)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CV",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 20, 2026\n\n\n01. Overview\n\n\n이상민 \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -19,12 +26,5 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CV",
-    "section": "",
-    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJan 20, 2026\n\n\n01. Overview\n\n\n이상민 \n\n\n\n\nJan 10, 2026\n\n\n00. CV summary\n\n\n이상민 \n\n\n\n\n\nNo matching items"
   }
 ]
