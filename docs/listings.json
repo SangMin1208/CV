@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/02.Review_on_deep_learning.html",
       "/posts/01.Overview_and_OpenCV.html"
     ]
   }
