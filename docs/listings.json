@@ -2,9 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/05.Object_detection_pipeline.html",
+      "/posts/04.Segmentation&Pose_estimation.html",
       "/posts/03.Review_on_PyTorch.html",
       "/posts/02.Review_on_deep_learning.html",
-      "/posts/01.Overview_and_OpenCV.html"
+      "/posts/01.Overview_and_OpenCV.html",
+      "/posts/00.Assignment1.html"
     ]
   }
 ]
